@@ -421,10 +421,20 @@ footer {
     box-shadow: 0 5px 15px 0 rgba(0,0,0,.05) inset;
 }
 
+footer .links ul li{
+    margin-top: 40px;
+    margin-left: 20px;
+    display: inline-block;
+    line-height: 24px;
+    font-size: 14px;
+    text-shadow: 0 1px 0 rgba(255,255,255,.7);
+}
+
 footer .widget {
     margin-top: 20px;
     text-align: left;
 }
+
 
 footer .widget h4 {
     margin-top: 20px;
